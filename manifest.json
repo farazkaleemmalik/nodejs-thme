@@ -1,0 +1,24 @@
+{
+    "manifest_version": 2,
+    "version": "1.0.0",
+    "name": "Node.js theme",
+    "author": "Faraz Malik",
+    "description": "No U Moses, Javascript is the best!",
+    "theme": {
+        "colors": {
+            "frame": [74,68,56],
+            "frame_inactive": [74,68,56],
+            "background_tab": [140,200,75],
+            "toolbar": [230,230,230],
+            "tab_text": [110,151,58],
+            "bookmark_text": [0,0,0],
+            "button_background": [0,128,0]
+        },
+        "images": {
+            "theme_ntp_background": "images/node.png"
+        },
+        "properties": {
+            "ntp_background_alignment": "center"
+        }
+    }
+}
